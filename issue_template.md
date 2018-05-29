@@ -7,7 +7,7 @@ Here you will describe the issue/feature you want to get fixed/implemented with 
 
 ## Acceptance criteria
 
-Acceptance criteria is a bullet list stating how the correct behavior of this ticket will look like, some examples are:
+Acceptance criteria is a checklist stating how the correct behavior of this ticket will look like, some examples are:
 
-* When clicking the **Save** button, the UI should look with showing a spinner until the save completes.
-* If the **Save** timeouts, we will show an error alert with the text **We couldn't save your record, please try again**.
+-[ ] When clicking the **Save** button, the UI should look with showing a spinner until the save completes.
+-[ ] If the **Save** timeouts, we will show an error alert with the text **We couldn't save your record, please try again**.
