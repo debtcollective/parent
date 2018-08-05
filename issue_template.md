@@ -1,5 +1,7 @@
 The most important thing is to get the bug/request written down! Everything else is gravy.
 
+The following are suggestions only:
+
 Here you will describe the issue/feature you want to get fixed/implemented with as much detail as possible. This description should include at least:
 
 * How to reproduce the problem. Include as many screenshots or videos you need to make it easier for the rest of team to understand what your thoughts are.
